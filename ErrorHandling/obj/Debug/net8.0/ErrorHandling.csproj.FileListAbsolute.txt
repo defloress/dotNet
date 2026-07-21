@@ -1,0 +1,15 @@
+/home/prorex/Documents/Code/dotNet/ErrorHandling/bin/Debug/net8.0/ErrorHandling
+/home/prorex/Documents/Code/dotNet/ErrorHandling/bin/Debug/net8.0/ErrorHandling.deps.json
+/home/prorex/Documents/Code/dotNet/ErrorHandling/bin/Debug/net8.0/ErrorHandling.runtimeconfig.json
+/home/prorex/Documents/Code/dotNet/ErrorHandling/bin/Debug/net8.0/ErrorHandling.dll
+/home/prorex/Documents/Code/dotNet/ErrorHandling/bin/Debug/net8.0/ErrorHandling.pdb
+/home/prorex/Documents/Code/dotNet/ErrorHandling/obj/Debug/net8.0/ErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+/home/prorex/Documents/Code/dotNet/ErrorHandling/obj/Debug/net8.0/ErrorHandling.AssemblyInfoInputs.cache
+/home/prorex/Documents/Code/dotNet/ErrorHandling/obj/Debug/net8.0/ErrorHandling.AssemblyInfo.cs
+/home/prorex/Documents/Code/dotNet/ErrorHandling/obj/Debug/net8.0/ErrorHandling.csproj.CoreCompileInputs.cache
+/home/prorex/Documents/Code/dotNet/ErrorHandling/obj/Debug/net8.0/ErrorHandling.sourcelink.json
+/home/prorex/Documents/Code/dotNet/ErrorHandling/obj/Debug/net8.0/ErrorHandling.dll
+/home/prorex/Documents/Code/dotNet/ErrorHandling/obj/Debug/net8.0/refint/ErrorHandling.dll
+/home/prorex/Documents/Code/dotNet/ErrorHandling/obj/Debug/net8.0/ErrorHandling.pdb
+/home/prorex/Documents/Code/dotNet/ErrorHandling/obj/Debug/net8.0/ErrorHandling.genruntimeconfig.cache
+/home/prorex/Documents/Code/dotNet/ErrorHandling/obj/Debug/net8.0/ref/ErrorHandling.dll
