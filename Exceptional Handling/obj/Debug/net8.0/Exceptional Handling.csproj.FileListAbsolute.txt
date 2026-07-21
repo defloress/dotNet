@@ -1,0 +1,14 @@
+/home/prorex/Documents/Code/dotNet/Exceptional Handling/bin/Debug/net8.0/Exceptional Handling
+/home/prorex/Documents/Code/dotNet/Exceptional Handling/bin/Debug/net8.0/Exceptional Handling.deps.json
+/home/prorex/Documents/Code/dotNet/Exceptional Handling/bin/Debug/net8.0/Exceptional Handling.runtimeconfig.json
+/home/prorex/Documents/Code/dotNet/Exceptional Handling/bin/Debug/net8.0/Exceptional Handling.dll
+/home/prorex/Documents/Code/dotNet/Exceptional Handling/bin/Debug/net8.0/Exceptional Handling.pdb
+/home/prorex/Documents/Code/dotNet/Exceptional Handling/obj/Debug/net8.0/Exceptional Handling.GeneratedMSBuildEditorConfig.editorconfig
+/home/prorex/Documents/Code/dotNet/Exceptional Handling/obj/Debug/net8.0/Exceptional Handling.AssemblyInfoInputs.cache
+/home/prorex/Documents/Code/dotNet/Exceptional Handling/obj/Debug/net8.0/Exceptional Handling.AssemblyInfo.cs
+/home/prorex/Documents/Code/dotNet/Exceptional Handling/obj/Debug/net8.0/Exceptional Handling.csproj.CoreCompileInputs.cache
+/home/prorex/Documents/Code/dotNet/Exceptional Handling/obj/Debug/net8.0/Exceptional Handling.dll
+/home/prorex/Documents/Code/dotNet/Exceptional Handling/obj/Debug/net8.0/refint/Exceptional Handling.dll
+/home/prorex/Documents/Code/dotNet/Exceptional Handling/obj/Debug/net8.0/Exceptional Handling.pdb
+/home/prorex/Documents/Code/dotNet/Exceptional Handling/obj/Debug/net8.0/Exceptional Handling.genruntimeconfig.cache
+/home/prorex/Documents/Code/dotNet/Exceptional Handling/obj/Debug/net8.0/ref/Exceptional Handling.dll
